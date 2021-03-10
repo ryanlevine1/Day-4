@@ -1,0 +1,61 @@
+header {
+    background-color: grey;
+}
+
+.left_column{
+    background-color: green;
+}
+
+.right_column{
+    background-color: indianred;
+}
+
+
+
+/* .left-column{
+    background-color: royalblue;
+}
+
+.right-column{
+    background-color: seagreen;
+} */
+
+
+
+
+
+/* nav {
+    height: 50px;
+    width: 100vw;
+    background-color: blueviolet;
+    
+}
+
+.left{
+    height: 500px;
+    width: 25vw;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.right{
+    height: 500px;
+    width: 25vw;
+    background-color: crimson;
+    position: absolute;
+    left: 500px;
+    bottom: 343px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer{
+    height: 50px;
+    width: 100vw;
+    background-color: palevioletred;
+    display: flex;
+
+} */
